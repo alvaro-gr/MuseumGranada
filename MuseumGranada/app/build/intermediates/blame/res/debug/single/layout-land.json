@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/res/merged/debug/layout-land/activity_crear_comentario.xml",
+        "source": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/src/main/res/layout-land/activity_crear_comentario.xml"
+    },
+    {
+        "merged": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/res/merged/debug/layout-land/activity_register.xml",
+        "source": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/src/main/res/layout-land/activity_register.xml"
+    },
+    {
+        "merged": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/res/merged/debug/layout-land/activity_panel.xml",
+        "source": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/src/main/res/layout-land/activity_panel.xml"
+    },
+    {
+        "merged": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/res/merged/debug/layout-land/activity_sugerencia.xml",
+        "source": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/src/main/res/layout-land/activity_sugerencia.xml"
+    },
+    {
+        "merged": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/res/merged/debug/layout-land/activity_ver_comentarios_usuario.xml",
+        "source": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/src/main/res/layout-land/activity_ver_comentarios_usuario.xml"
+    },
+    {
+        "merged": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/res/merged/debug/layout-land/activity_login.xml",
+        "source": "/home/alvaro/ProyectosAndroid/MuseumGranada/app/src/main/res/layout-land/activity_login.xml"
+    }
+]

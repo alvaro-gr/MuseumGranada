@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MuseumGranada</string>
+
+    <string-array name="opciones_museo">
+        <item>Sobre las Salas</item>
+        <item>Servicios del Museo</item>
+        <item>Tarifas</item>
+        <item>Ventajas por Venir</item>
+        <item>Programa de Actividades</item>
+        <item>Horarios</item>
+        <item>Otros</item>
+    </string-array>
+
+    <string name="opinar">Opinar</string>
+    <string name="tema">Tema</string>
+    <string name="creado">Creado por:</string>
+    <string name="comentario">Comentario:</string>
+    <string name="tema_2">Tema:</string>
+    <string name="publicado">Publicado:</string>
+    <string name="mis_opiniones">Mis Opiniones</string>
+    <string name="enviar_sugerencia">Envianos tu Sugerencia</string>
+    <string name="enviar_sugerencia2">Enviar Sugerencia</string>
+    <string name="elige_tema">Elige un tema:</string>
+    <string name="escribir_sugerencia">Escribe tu sugerencia:</string>
+    <string name="registrate">Regístrate</string>
+    <string name="registrar">Registrar</string>
+    <string name="hola">Hola</string>
+    <string name="deja_opinion">Deja tu opinión en los siguientes temas:</string>
+    <string name="ver_opinones">Ver mis opiniones</string>
+    <string name="sugerencia">Sugerencia</string>
+    <string name="login">Login</string>
+    <string name="valoracion">Tu Valoración:</string>
+    <string name="opinion">Opinión:</string>
+    <string name="aviso">Max. 250 caracteres</string>
+
+
+</resources>

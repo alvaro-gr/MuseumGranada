@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/tema"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/t1"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:id="@+id/texttema"
+        android:textSize="18sp"
+        android:layout_below="@+id/t1"
+        android:layout_alignParentStart="true"
+        android:textColor="@android:color/background_dark"
+        android:layout_height="150dp" />
+
+    <View
+        android:id="@+id/linea"
+        android:layout_width="wrap_content"
+        android:background="@color/colorPrimary"
+        android:layout_height="1dp"
+        android:layout_below="@+id/opinar"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="14dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/codigo"
+        android:textColor="@android:color/white"
+        android:text="asdfasdf"
+        android:textSize="18sp"
+        android:layout_above="@+id/texttema"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/opinar"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/opinar"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@android:color/background_light"
+        android:background="@color/colorSecundario"
+        android:layout_below="@+id/texttema"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

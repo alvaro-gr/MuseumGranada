@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_29af5664edf08844c49dce74f37b207e162cd5ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.1_7ef78e462c29fcfff3c40028833a52946e8f230b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.1_2e0b1d8b35f75e11cdaad17f5fe0a68ac04fd548.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_2e0b1d8b35f75e11cdaad17f5fe0a68ac04fd548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c63a311b0c06b04c9f13c8c6630179305a7929">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ca2485f57e4da5f4ecd6ba1af94f28cab27c92e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c9bda5cbf942b07df398dbf30f2616f33f4de0">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1ffcd46b7ea23c9108c6e534a731b34acec7860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.0_b25df23976423ee6b4fb9a1c879b3a4affe2f67a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.1_020fec303392ca238993354acf9867de161d011e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_9796616080437dad108362b5a9cc287141cc9439/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_020fec303392ca238993354acf9867de161d011e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_959ff45b4d745526c831556ef2e0b7acb85e2176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_c85fec70027bbe25730029684edd43c0a0594ed5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-design-23.0.0_b25df23976423ee6b4fb9a1c879b3a4affe2f67a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_c85fec70027bbe25730029684edd43c0a0594ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.0.0_b22d84df79486c94c59dadef2fe7779a90ccb0df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_959ff45b4d745526c831556ef2e0b7acb85e2176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.1_a7903fd255bfbc288da3df76cf977990966c6b27.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_a7903fd255bfbc288da3df76cf977990966c6b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.1_9796616080437dad108362b5a9cc287141cc9439.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.0_b22d84df79486c94c59dadef2fe7779a90ccb0df/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.1_9ba931e2703e47be0417b5934df2beca48f960dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_9f81e42423bd664b23dc82ba536bce4882fc842e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.1_9f81e42423bd664b23dc82ba536bce4882fc842e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.1_1bc1d0336ff4a1b273459e31cf77fc325ec46227.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.0_f9f8421d4cfe318c2471957311740484d7b7e6f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.0.0_f9f8421d4cfe318c2471957311740484d7b7e6f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_1bc1d0336ff4a1b273459e31cf77fc325ec46227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_7ef78e462c29fcfff3c40028833a52946e8f230b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.1_29af5664edf08844c49dce74f37b207e162cd5ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_9ba931e2703e47be0417b5934df2beca48f960dc/classes.dex" />
+    </item>
+
+</items>

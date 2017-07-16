@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="7119418508927"
+    token="5515234594335242658"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="6367121024282"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="6802191621136"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="7119418508927"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

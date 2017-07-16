@@ -1,0 +1,7 @@
+#Wed Jun 07 22:38:39 CEST 2017
+base.0=/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1ffcd46b7ea23c9108c6e534a731b34acec7860
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ca2485f57e4da5f4ecd6ba1af94f28cab27c92e6/classes.dex
+base.1=/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ca2485f57e4da5f4ecd6ba1af94f28cab27c92e6
+file.0=/home/alvaro/ProyectosAndroid/MuseumGranada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1ffcd46b7ea23c9108c6e534a731b34acec7860/classes.dex
